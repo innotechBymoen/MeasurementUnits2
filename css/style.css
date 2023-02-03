@@ -1,0 +1,67 @@
+#div_one {
+    width: 3cm;
+    height: 5cm;
+    background-color: aqua;
+}
+
+#div_two {
+    width: 50mm;
+    height: 30mm;
+    background-color: darkgreen;
+}
+
+#div_three {
+    width: 4in;
+    height: 4in;
+    background-color: hotpink;
+}
+
+#div_four {
+    width: 100px;
+    height: 50px;
+    background-color: greenyellow;
+}
+
+#div_five {
+    width: 80pt;
+    height: 30pt;
+    background-color: blue;
+}
+
+#div_six {
+    width: 10pc;
+    height: 12pc;
+    background-color: indigo;
+}
+
+#div_seven {
+    width: 20vh;
+    height: 15vh;
+    background-color: crimson;
+}
+
+#div_eight {
+    width: 35vw;
+    height: 35vw;
+    background-color: darkturquoise;
+}
+
+#div_nine {
+    width: 75%;
+    height: 75vh;
+    background-color: darkorange;
+    font-size: 160px;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+p {
+    font-size: 0.5em;
+}
+
+#grid_parent {
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+}
